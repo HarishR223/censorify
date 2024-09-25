@@ -1,18 +1,5 @@
 {
-       "author": "Brendan Dayley",
-       "name": "censorify",
-       "version": "0.1.1",
-       "description": "Censors words out of text",
-       "main": "censortext",
-       "repository": {
-            "type": "git",
-             "url": "https://github.com/HarishR223/censorify"
-            },
-           "keywords": [
-             "censor",
-             "words"   ],
-      "dependencies": {},
-      "engines": {
-         "node": "*"
-    }
+  "dependencies": {
+    "censorify": "^0.1.1"
+  }
 }
